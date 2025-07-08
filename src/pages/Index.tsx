@@ -345,7 +345,7 @@ const Index = () => {
                     className="text-gray-600"
                     style={{ fontFamily: "Open Sans" }}
                   >
-                    г. Москва, ул. Красоты, д. 15
+                    г.о. Подольск, ул. Красоты, д. 15
                   </p>
                 </div>
               </div>
