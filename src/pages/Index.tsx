@@ -23,7 +23,7 @@ const Index = () => {
                 className="text-2xl font-bold text-gray-900"
                 style={{ fontFamily: "Cormorant" }}
               >
-                Beauty Salon
+                S&A Beauty Room
               </h1>
             </div>
             <nav className="hidden md:flex space-x-8">
@@ -451,7 +451,7 @@ const Index = () => {
                   className="text-xl font-bold"
                   style={{ fontFamily: "Cormorant" }}
                 >
-                  Beauty Salon
+                  S&A Beauty Room
                 </h3>
               </div>
               <p className="text-gray-400" style={{ fontFamily: "Open Sans" }}>
