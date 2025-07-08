@@ -216,13 +216,13 @@ const Index = () => {
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
-            {/* Eyelash Works */}
+            {/* Portfolio Items */}
             <div className="group cursor-pointer">
-              <div className="aspect-square bg-gray-200 rounded-lg overflow-hidden mb-4 shadow-md group-hover:shadow-lg transition-shadow">
-                <img
-                  src="/img/02ec8fda-9e98-49a7-82cf-17f699158cbc.jpg"
-                  alt="Наращивание ресниц работа 1"
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              <div className="aspect-square bg-gradient-to-br from-beige to-gold-light rounded-lg overflow-hidden mb-4 shadow-md group-hover:shadow-lg transition-shadow flex items-center justify-center">
+                <Icon
+                  name="Eye"
+                  size={48}
+                  className="text-gold-dark opacity-60"
                 />
               </div>
               <h3
@@ -240,11 +240,11 @@ const Index = () => {
             </div>
 
             <div className="group cursor-pointer">
-              <div className="aspect-square bg-gray-200 rounded-lg overflow-hidden mb-4 shadow-md group-hover:shadow-lg transition-shadow">
-                <img
-                  src="/img/35a4cbb6-f3a5-4e98-8618-5533f8436038.jpg"
-                  alt="Интерьер салона"
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              <div className="aspect-square bg-gradient-to-br from-beige to-gold-light rounded-lg overflow-hidden mb-4 shadow-md group-hover:shadow-lg transition-shadow flex items-center justify-center">
+                <Icon
+                  name="Sparkles"
+                  size={48}
+                  className="text-gold-dark opacity-60"
                 />
               </div>
               <h3
@@ -262,11 +262,11 @@ const Index = () => {
             </div>
 
             <div className="group cursor-pointer">
-              <div className="aspect-square bg-gray-200 rounded-lg overflow-hidden mb-4 shadow-md group-hover:shadow-lg transition-shadow">
-                <img
-                  src="/img/499e0f15-08cf-49f5-9f1e-46bcbd903a17.jpg"
-                  alt="Маникюр работа 1"
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              <div className="aspect-square bg-gradient-to-br from-beige to-gold-light rounded-lg overflow-hidden mb-4 shadow-md group-hover:shadow-lg transition-shadow flex items-center justify-center">
+                <Icon
+                  name="Hand"
+                  size={48}
+                  className="text-gold-dark opacity-60"
                 />
               </div>
               <h3
