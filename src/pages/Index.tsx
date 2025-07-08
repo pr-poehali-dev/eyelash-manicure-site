@@ -345,7 +345,7 @@ const Index = () => {
                     className="text-gray-600"
                     style={{ fontFamily: "Open Sans" }}
                   >
-                    г.о. Подольск, ул. Красоты, д. 15
+                    г.о. Подольск, Бульвар 65 летия
                   </p>
                 </div>
               </div>
